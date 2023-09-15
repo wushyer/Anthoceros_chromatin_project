@@ -15,7 +15,7 @@ peter@peterwschafran.com
 | *Anthoceros agrestis* | [SRR25338991](https://www.ncbi.nlm.nih.gov/sra/SRR25338991), [SRR10190639](https://www.ncbi.nlm.nih.gov/sra/SRR10190639), [SRR10190640](https://www.ncbi.nlm.nih.gov/sra/SRR10190640) | [SRR10250248](https://www.ncbi.nlm.nih.gov/sra/SRR10250248) | [SRR10250249](https://www.ncbi.nlm.nih.gov/sra/SRR10250249) | [SRR25366943](https://www.ncbi.nlm.nih.gov/sra/SRR25366943) |
 
 ## Graphic Overview
-<img src="images/Genome_assembly_pipeline.jpg" width=750>
+<img src="Genome_assembly_pipeline.jpg" width=750>
 
 ## Draft Assembly
 Filter out ONT reads < 5kbp long.
