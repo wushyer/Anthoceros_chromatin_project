@@ -1,6 +1,6 @@
-This is a document describing how we aligned and analyzed ChIP-seq, RNA-seq and EM-seq data presented in
+This is a repository describing how we aligned and analyzed ChIP-seq, RNA-seq and EM-seq data presented in
 
-Hisanaga et al., 2023, The ancestral chromatin landscape of land plants, New Phytologist.
+Tetsuya Hisanaga#, Shuangyang Wu#, Peter Schafran, Elin Axelsson, Svetlana Akimcheva, Liam Dolan, Fay-Wei Li, Frédéric Berger*. The ancestral chromatin landscape of land plants, 2023,  New Phytologist (accepted).
 
 ===============ChIPseq data analysis==================
 ChIP-seq reads were preprocessed and aligned to A. agrestis genome using "ChIPseq-align.sh"
